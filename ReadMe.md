@@ -1,5 +1,5 @@
 # About Me:
-🎓 Cursando Bacharel em Sistemas de Informação (USP)<br>💼 A procura de um estágio<br><br><br>
+🎓 Cursando Bacharel em Sistemas de Informação (USP)<br>💼 Aprendiz no Itaú Unibanco<br><br><br>
 
 
 ## 🌐 Social Media:
