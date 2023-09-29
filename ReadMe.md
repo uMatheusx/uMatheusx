@@ -1,15 +1,47 @@
-# About Me:
-🎓 Cursando Bacharel em Sistemas de Informação (USP)<br>💼 Aprendiz no Itaú Unibanco<br><br><br>
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ppont0yd0gt4jycblhpszupso8calricxj8u3eld&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
+###
 
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-azevedo-75067225b/) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-azevedo-75067225b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uMatheusx&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uMatheusx&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uMatheusx&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Hello 👋</h1>
+
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+<p align="left">Desenvolvedor Front-End  | São Paulo<br><br>• Bacharelado em Sistemas de Informação (USP)<br>• Aprendiz no Itaú Unibanco</p>
+
+###
+
+<h3 align="left">Linguagens e ferramentas</h3>
+
+###
+
+<p align="left">- Linguagens: C, HTML, CSS, JavaScript<br>- Banco de dados: MySQL<br>- Ferramentas: Axios</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
