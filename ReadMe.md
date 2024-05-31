@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-End  | São Paulo<br><br>• Bacharelado em Sistemas de Informação (USP)<br>• Aprendiz no Itaú Unibanco</p>
+<p align="left">Desenvolvedor | São Paulo<br><br>• Bacharelado em Sistemas de Informação (USP)<br>• Aprendiz no Itaú Unibanco</p>
 
 ###
 
